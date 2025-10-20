@@ -1,11 +1,11 @@
 .profile-header {
-   display: flex;
-   align-items: center; 
+   text-align: center 
 }
 
 .avatar {
-   width: 1024;
-   height: 1024;
-   border-radius: 50%;
+   width: 500;
+   height: 500;
+   border-radius: 90%;
    object-fit: cover;
+   border: 5px solid black;
 }
