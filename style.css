@@ -2,6 +2,7 @@ body {
    background-image: url('background.png');
    background-size: cover;
    background-repeat: no-repeat;
+   color: white;
 }
 
 .profile-header {
@@ -13,5 +14,5 @@ body {
    height: 500;
    border-radius: 90%;
    object-fit: cover;
-   border: 5px solid black;
+   border: 5px solid darkorchid;
 }
