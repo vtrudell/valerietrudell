@@ -16,3 +16,7 @@ body {
    object-fit: cover;
    border: 5px solid darkorchid;
 }
+
+p {
+   font-size: clamp(1.25rem, 1.25rem + ((1vw - 0.2rem) * 0.568), 1.5rem);
+}
